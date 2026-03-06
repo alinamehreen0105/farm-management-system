@@ -1,5 +1,3 @@
-# farm-management-system
-Salesforce based Farm Management System project
 # Farm Management System
 
 This project is a **Farm Management System developed using Salesforce Developer Org**.
