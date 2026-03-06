@@ -26,5 +26,6 @@ The complete project documentation is available in the uploaded **Word file** in
 
 ## Author
 
-Alina Mehreen
+Alina Mehreen and Team
+Initha,Faareha,Anu and Jayasri
 
